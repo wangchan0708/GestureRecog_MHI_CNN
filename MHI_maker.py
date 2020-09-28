@@ -9,7 +9,7 @@ import numpy as np
 begin = 0
 end = 1000
 
-f = open("/home/roboticslab/Desktop/Data/MHIs/labels.txt","r")
+f = open("labels.txt","r")
 s = f.read()
 f.close()
 labels = s.split("\n")
