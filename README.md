@@ -1,4 +1,4 @@
-# realize the gesture recognition of one complete sentance by the use of MHI and CNN.
+realize the gesture recognition of one complete sentance by the use of MHI and CNN.
 
 <br>
 <br> 利用MHI來將影像轉換成靜態圖像,顏色深淺代表著時間先後順序
