@@ -1,4 +1,4 @@
-realize the gesture recognition of one complete sentance by the use of MHI and CNN.
+Realize the gesture recognition of one complete sentance by the use of MHI and CNN. The accurancy can be 95%.
 
 <br> 利用MHI來將影像轉換成靜態圖像,顏色深淺代表著時間先後順序
 <br> 再利用CNN來辨識出每一個動作所代表的單詞
